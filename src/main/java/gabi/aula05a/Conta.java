@@ -86,7 +86,7 @@ public class Conta {
      
      // Métodos especiais (Construtor, getters e setters//
      
-     public void Conta() //Construtor
+     public Conta() //Construtor
      {
        this.setSaldo(0);  //Poderia ser assim, mas a preferência é ref setters e getters this.saldo = 0;
        this.setStatus(false); ///this.status = false; 

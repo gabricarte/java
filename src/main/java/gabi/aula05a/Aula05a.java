@@ -2,9 +2,7 @@
 package gabi.aula05a;
 
 public class Aula05a {
-/* Situação: Jubileu e Creusa desejam criar uma conta bancária. Existem dois tipos de conta: bancária e poupança. O Jubileu na conta poupança deseja depositar 300 reais  e Creusa na conta corrente 500. 
-Creusa deseja sacar 100 reais.
-*/
+    
     public static void main(String[] args) {
         //Jubileu 
         Conta p1 = new Conta();

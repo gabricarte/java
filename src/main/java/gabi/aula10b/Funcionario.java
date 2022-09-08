@@ -13,6 +13,7 @@ public class Funcionario extends Pessoa {
     
     //Getters and setters
 
+    
     public String getSetor() {
         return setor;
     }

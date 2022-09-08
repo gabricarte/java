@@ -15,7 +15,6 @@ public class Professor extends Pessoa {
     }
     
     //Construtor 
-
     public Professor() {
         this.especialidade = "Matemática";
         this.salario =+ 1000;

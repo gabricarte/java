@@ -8,8 +8,6 @@ public class Aluno extends Pessoa {
     private String curso; 
     
     //Métodos
-    
-    
     public void cancelarMatr(){
          this.matr = 0;
     }

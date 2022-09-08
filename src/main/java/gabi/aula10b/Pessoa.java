@@ -23,7 +23,6 @@ public class Pessoa {
         return "Pessoa{" + "nome=" + nome + ", idade=" + idade + ", sexo=" + sexo + '}';
     }
     
-    
     //Getters e setters 
 
     public String getNome() {

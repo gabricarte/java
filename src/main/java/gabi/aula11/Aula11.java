@@ -6,13 +6,13 @@ public class Aula11 {
 
     public static void main(String[] args) {
         // Programa principal 
-        /*
+
         Visitante v1  = new Visitante();
         v1.setIdade(19);
         v1.setNome("Gabriela");
         v1.setSexo("F");
         System.out.println(v1.toString());        
-        */
+
         
         //Aluno 
         

@@ -7,6 +7,8 @@ public class Aula11 {
     public static void main(String[] args) {
         // Programa principal 
 
+        // Visitante
+        
         Visitante v1  = new Visitante();
         v1.setIdade(19);
         v1.setNome("Gabriela");

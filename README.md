@@ -1,0 +1,1 @@
+Nessa atividade, foram exercidos os seguintes conceitos de programação orientada a objetos: super-classe, sub-classe, ancestral, descendente, classe raiz, classe folha, generalização, especialização, tipos de herança, classe abstrata, método abstrato, classe final e método final. 

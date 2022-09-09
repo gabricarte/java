@@ -8,6 +8,7 @@ public class Professor extends Pessoa {
     private float salario; 
     
     //Métodos
+    
     public void receberAumento(float d){
         this.salario = this.salario + d;
     }

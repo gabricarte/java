@@ -4,6 +4,7 @@ package gabi.aula11;
 public class Técnico extends Aluno{
     
     //Atributos
+    
     private int registroProfissional; 
     
     //Métodos

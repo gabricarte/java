@@ -4,6 +4,7 @@ package gabi.aula11;
 // Classe abstrata
 
 public abstract class Pessoa {
+    
     //Atributos 
     
     protected String nome; 

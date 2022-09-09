@@ -8,6 +8,7 @@ package gabi.aula11;
 public class Aluno extends Pessoa {
     
     // Atributos
+    
     private int matricula; 
     private String curso; 
     private int bolsa; 

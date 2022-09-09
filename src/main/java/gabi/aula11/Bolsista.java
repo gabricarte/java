@@ -17,6 +17,7 @@ public class Bolsista extends Aluno {
     // Sobreposição do método pagarMensalidade da classe "Aluno": 
     
     @Override
+    
     public void pagarMensalidade(){
         System.out.println(this.nome + " é bolsista! Pagamento facilitado");
     }
